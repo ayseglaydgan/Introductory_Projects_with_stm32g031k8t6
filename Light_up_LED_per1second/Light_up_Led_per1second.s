@@ -103,7 +103,7 @@ main:
     /* turn on led connected to A0 in ODR */
     ldr r6, =GPIOA_ODR
     ldr r5, [r6]
-    my_loop:
+my_loop:
     ldr r4, =0x1
     orrs r5, r5, r4
     str r5, [r6] //Led HIGH
