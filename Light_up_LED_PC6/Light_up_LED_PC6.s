@@ -5,7 +5,7 @@
 
  */
  /*preproccesor defines for target platform*/
- .syntax unified
+.syntax unified
 .cpu cortex-m0plus
 .fpu softvfp
 .thumb
