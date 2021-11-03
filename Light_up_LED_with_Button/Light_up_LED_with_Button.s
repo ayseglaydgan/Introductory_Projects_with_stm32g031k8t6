@@ -1,6 +1,6 @@
 /*
 *
-* author: Yusuf Günan & Ayşegül Aydoğan
+* author: Ayşegül Aydoğan
 *
 * Turning On A LED With Button
 * Board that i used is STM32G031.
